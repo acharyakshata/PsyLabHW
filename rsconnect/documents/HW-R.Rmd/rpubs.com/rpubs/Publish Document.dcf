@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/490983/4c9faf7945f949088d26857642dc6aeb
+bundleId: https://api.rpubs.com/api/v1/document/490983/4c9faf7945f949088d26857642dc6aeb
+url: http://rpubs.com/acharyakshata/490983/edit
+when: 1556376076.3177
